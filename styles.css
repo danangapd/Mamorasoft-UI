@@ -1,0 +1,16 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+section .image{
+    max-width: 100%;
+    height: auto;
+    top: 0;
+    left: 0;
+    position: absolute;
+    z-index: -1;
+}
+section .container{
+    margin-top: 44em;
+    margin-bottom: 3em;
+}
